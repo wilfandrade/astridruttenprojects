@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="386px" height="426px" viewBox="0 0 386 426" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Fill 6 Copy</title>
+    <defs>
+        <path d="M328.303526,426 C366.578964,362.170312 388,291.423741 388,216.881458 C388,139.309466 364.825195,65.8304393 323.566072,0 C212.497832,38.3572636 105.130727,68.071281 2,90.5368616 C13.4336628,179.095837 36.9159463,276.446687 77.3665142,382.040632 C161.866293,390.992566 246.206638,406.404069 328.303526,426" id="path-1"></path>
+    </defs>
+    <g id="Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Astrid---home" transform="translate(-264.000000, -2034.000000)">
+            <g id="Group-7" transform="translate(262.000000, 2034.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Fill-6-Copy" fill="#F5C286" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
